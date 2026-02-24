@@ -8,8 +8,7 @@ permalink: /CV
 ## Education
 - Integrated master’s/doctoral program, Department of Mathematical Sciences, KAIST, Mar. 2022 - Current
 - B.S. in Mathematics, Korea University, Mar. 2017 - Feb. 2022
-  - Millitary duty in ROK Army, Mar. 2019 - Oct. 2020
-
+  
 ## Research Interests
  - Gaussian free field 
  - Random interface theory
@@ -21,3 +20,7 @@ permalink: /CV
 
 ## Talks
  - Not yet 
+
+## EExtracurricular Activities
+ - Millitary duty in ROK Army, Mar. 2019 - Oct. 2020
+   - Specialty in computer technician 
