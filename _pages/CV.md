@@ -14,13 +14,7 @@ permalink: /CV
  - Random interface theory
  - Statistical dynamics
  - and related topics
-
-## Publications
- - Not yet
-
-## Talks
- - Not yet 
-
+   
 ## Extracurricular Activities
  - Millitary duty in ROK Army, Mar. 2019 - Oct. 2020
    - Specialty in computer technician 
