@@ -16,5 +16,5 @@ permalink: /CV
  - and related topics
    
 ## Extracurricular Activities
- - Millitary duty in ROK Army, Mar. 2019 - Oct. 2020
-   - Specialty in computer technician 
+ - Military duty in ROK Army, Mar. 2019 - Oct. 2020
+   - Served as a computer technician
