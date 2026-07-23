@@ -20,7 +20,7 @@ title                    : "Jingu Hwang's Homepage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jingu Hwang"
-description              : "Graduate student in Department of Mathematical Science at KAIST"
+description              : "Jingu Hwang's Homepage"
 name                     : "Jingu Hwang"
 description              : "Jingu Hwang's Homepage"
 url                      : "https://j9hwang.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -199,6 +199,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -207,6 +208,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 
 # Archives
