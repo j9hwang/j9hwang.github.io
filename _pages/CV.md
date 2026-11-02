@@ -16,7 +16,7 @@ permalink: /CV
  - and related topics
 
 ## Awards
- - Outstanding Poster Award, [2026 KMS Spring Conference](https://www.kms.or.kr/conference/meeting/?period=91)
+ - Outstanding Poster Award, [2026 KMS Spring Conference](https://www.kms.or.kr/conference/meeting/?period=91) [#](https://www.kms.or.kr/board/list.html?code=md_meet&num=26134&period=91&period_url=meeting)
    
 ## Extracurricular Activities
  - Military duty in ROK Army, Mar. 2019 - Oct. 2020
